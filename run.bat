@@ -1,0 +1,1 @@
+laZagne.exe all > password.txt
